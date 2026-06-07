@@ -19,7 +19,7 @@ source:
     - patches/0006-fix-remove-DD4HEP_LIBRARY_PATH-requirement-from-Pyth.patch
 
 build:
-  number: 0
+  number: 1
   skip:
     - win
   script:
